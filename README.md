@@ -1,4 +1,3 @@
-````markdown
 # 🏥 MedSearch
 
 MedSearch is a Python-based web scraping project that automates the collection of medical information from online sources using Selenium. The project is designed to search, extract, and organize healthcare-related data efficiently, enabling further analysis, research, or integration into other applications.
