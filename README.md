@@ -162,12 +162,3 @@ This project is licensed under the MIT License.
 
 GitHub: [Albert Zaqaryan GitHub](https://github.com/AlbertZaqaryan?utm_source=chatgpt.com)
 
----
-
-If you are scraping medical websites, make sure to respect the website's Terms of Service, robots.txt policies, and applicable data privacy regulations.
-
-```
-
-Если покажешь структуру проекта (`tree` или скриншот файлов), я могу написать README гораздо точнее под твой конкретный Selenium-парсер.
-::contentReference[oaicite:1]{index=1}
-```
